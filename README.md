@@ -134,6 +134,28 @@ Returns:
 
 ---
 
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/homepage.png)
+
+### 🦊 MetaMask Connected
+
+![MetaMask Connected](screenshots/metamask-connected.png)
+
+### ➕ Add Product
+
+![Add Product](screenshots/add-product.png)
+
+### ✅ Product Verification
+
+![Verification Result](screenshots/verification-result.png)
+
+---
+
 ## 👩‍💻 Author
 
 **Bency Hanita Angelica K**
