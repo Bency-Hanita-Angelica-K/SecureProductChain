@@ -150,6 +150,10 @@ Returns:
 
 ![Add Product](screenshots/add-product.png)
 
+### 🎉 Product Added Successfully
+
+![Product Added Successfully](screenshots/added-successfully.png)
+
 ### ✅ Product Verification
 
 ![Verification Result](screenshots/verification-result.png)
